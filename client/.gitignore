@@ -1,9 +1,3 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-client/node_modules
-
-# dependencies
-
-#server
-.idea
-*.env
+node_modules
